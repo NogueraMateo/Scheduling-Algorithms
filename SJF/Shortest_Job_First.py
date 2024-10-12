@@ -92,7 +92,7 @@ class SJF:
 
 
     def get_metrics(self):
-        print(f"First Come First Serve:\n\n")
+        print(f"Shortest Job First:\n\n")
         for p in self._ready_queue:
             p.info()
         
