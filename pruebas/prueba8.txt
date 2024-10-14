@@ -1,0 +1,4 @@
+Process_ID   Arrival_Time   Burst_Time
+P0           0              3
+P1           0              15
+P2           0              9
